@@ -17,6 +17,9 @@ full_analysis.ipynb - Code for analysis in Sections 3, 4.1, 4.2, 4.3
 
 *To be added* - Code for track re-ranking experiemnt in Section 4.3
 
+## Dataset
+All experiments are done on a subset of Spotify's [Music Streaming Sessions Dataset](https://arxiv.org/abs/1901.09851), which can be obtained [here](https://www.aicrowd.com/challenges/spotify-sequential-skip-prediction-challenge).
+
 ## Reference
 If you found the provided code useful, please consider citing our work.
 
